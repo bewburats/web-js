@@ -1,0 +1,10 @@
+body {
+    background-image: url('./images/back.png');
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: rgba(255, 192, 203, 0.5);
+}
+
+#buttonChange {
+    color: rgb(32,32,32);
+}
